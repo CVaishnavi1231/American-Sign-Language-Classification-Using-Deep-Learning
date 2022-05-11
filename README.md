@@ -7,11 +7,13 @@
 
 ## Important files and folders in the build   
     1. EE 541 Final.ipynb
-    2. ASL Test Data Set (Modified)
+    2. asl_alphabet_test (Modified Test Dataset)
 
 ## How to compile and run the file    
-    1. First run the cell with all import statements.
+    1. Upload the kaggle api key file to donload the ASL dataset.
+    2. Replace the downloaded text dataset with the updated test dataset.
+    3. Run the cell with all import statements.
     2. Run the corresponding cell block for each model.
-    3. Test the model using updated test data set
+    3. Test the model using updated test data set.
     
 
