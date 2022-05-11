@@ -1,9 +1,8 @@
 # AMERICAN SIGN LANGUAGE USING DEEP LEARNING
 ****************************************************************************************************************   
-**Author**            - Sanjana Vasudeva, Vaishnavi Channakeshava
-**Models Used**       - CNN, ResNet, AlexNet, VGG16, Inception-v3 
-**Tools used**        - Google Colab Pro   
-
+**Author**            - Sanjana Vasudeva, Vaishnavi Channakeshava  
+**Models Used**       - CNN, ResNet, AlexNet, VGG16, Inception-v3   
+**Tools used**        - Google Colab Pro  
 ****************************************************************************************************************
 
 ## Important files and folders in the build   
