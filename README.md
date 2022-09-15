@@ -1,4 +1,4 @@
-# AMERICAN SIGN LANGUAGE CLASSIFICATION USING DEEP LEARNING
+# American Sign Language Classification Using Deep Learning 
 ****************************************************************************************************************   
 **Author**            - Sanjana Vasudeva, Vaishnavi Channakeshava  
 **Models Used**       - CNN, ResNet, AlexNet, VGG16, Inception-v3   
